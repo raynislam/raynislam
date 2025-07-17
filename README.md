@@ -1,5 +1,5 @@
 ## Hi there 👋
-Test 123
+I am Rayn a high school senior.
 <!--
 **raynislam/raynislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
